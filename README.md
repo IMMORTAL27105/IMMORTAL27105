@@ -1,8 +1,8 @@
 # Hi, I'm Mrithunjaya 👋
 
-🌍 Environmental Data Analyst (in training)
-📊 AI • Data Science • Sustainability
-🧠 Researcher • Writer • Thinker
+🌍 Environmental Data Analyst (in training) \n
+📊 AI • Data Science • Sustainability \n
+🧠 Researcher • Writer • Thinker \n
 
 
 
@@ -16,7 +16,7 @@ Currently exploring how **AI and data analysis can support sustainability and en
 
 ## ⚙️ Skills
 
-Python • Data Analysis • Machine Learning • SQL • Data Visualization
+Python • Pandas • NumPy • Machine Learning • SQL • Data Visualization
 
 
 
