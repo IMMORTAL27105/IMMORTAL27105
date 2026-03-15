@@ -8,10 +8,9 @@
 
 ## 🔎 About Me
 
-Interested in understanding **nature, climate, and environmental systems through data**.
+Interested in understanding nature, climate, and environmental systems through data.
 
-Currently exploring how **AI and data analysis can support sustainability and environmental research**.
-
+Exploring how data science and AI can support sustainability, environmental research, and better decision-making.
 
 
 ## ⚙️ Skills
