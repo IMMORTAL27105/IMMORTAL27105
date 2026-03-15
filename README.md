@@ -22,5 +22,4 @@ Python • Data Analysis • Machine Learning • SQL • Data Visualization
 
 ## 📚 Currently Learning
 
-Environmental Data Analysis
-Advanced Data Science
+Environmental Data Analysis & Advanced Data Science
