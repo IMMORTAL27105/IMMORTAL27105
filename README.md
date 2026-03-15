@@ -1,8 +1,8 @@
 # Hi, I'm Mrithunjaya 👋
 
-🌍 Environmental Data Analyst (in training) \n
-📊 AI • Data Science • Sustainability \n
-🧠 Researcher • Writer • Thinker \n
+🌍 Environmental Data Analyst (in training)  
+📊 AI • Data Science • Sustainability  
+🧠 Researcher • Writer • Thinker
 
 
 
