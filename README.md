@@ -1,6 +1,6 @@
 # Hi, I'm Mrithunjaya 👋
 
-🌍 Environmental Data Analyst
+🌍 Environmental Data Analyst                                                                                                  
 📊 AI • Data Science • Sustainability  
 🧠 Researcher • Writer • Thinker
 
